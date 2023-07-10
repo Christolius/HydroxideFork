@@ -1,6 +1,6 @@
 ## Script
 ```lua
-local owner = "Upbolt"
+local owner = "Christolius"
 local branch = "revision"
 
 local function webImport(file)
@@ -11,16 +11,17 @@ webImport("init")
 webImport("ui/main")
 ```
 
-# Hydroxide
+# HydroxideFork
 <i>General purpose pen-testing tool for games on the Roblox engine</i>
-
-Report issues to our Discord server: https://discord.gg/DJxBwAX
 
 <p align="center">
     <img src="https://cdn.discordapp.com/attachments/633472429917995038/722143730500501534/Hydroxide_Logo.png"/>
     </br>
     <img src="https://cdn.discordapp.com/attachments/694726636138004593/742408546334933002/unknown.png" width="677px"/>
 </p>
+
+## Custom Features
+* Advanced GetFullName() (Coming Soon)
 
 ## Features
 * Upvalue Scanner
@@ -43,8 +44,6 @@ Report issues to our Discord server: https://discord.gg/DJxBwAX
 * ClosureSpy
     * Log calls of closures
     * View general information of closures (location, protos, constants, etc.)
-
-More to come, soon.
 
 ## Images/Videos
 <p align="center">
